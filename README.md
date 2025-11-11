@@ -43,9 +43,11 @@ Spring Boot, React, Flutter, MyBatis, JPA 등 다양한 기술을 경험하였�
 |2014.02.10|	운전면허 1종 보통	|1종 보통|	경찰청|
 
 ### 4) 개발 학습 공간
-> [Git](https://github.com/OngTK)
-> [Velog](https://velog.io/@dhdxorud)
-> [Baekjoon](https://www.acmicpc.net/user/moonong)
+> 🔗 [Git](https://github.com/OngTK)
+
+> 🔗 [Velog](https://velog.io/@dhdxorud)
+
+> 🔗 [Baekjoon](https://www.acmicpc.net/user/moonong)
 
 ---
 
