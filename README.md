@@ -42,13 +42,6 @@ Spring Boot, React, Flutter, MyBatis, JPA 등 다양한 기술을 경험하였�
 |2018.08.24|	컴퓨터활용능력	|1급|	대한상공회의소|
 |2014.02.10|	운전면허 1종 보통	|1종 보통|	경찰청|
 
-### 4) 개발 학습 공간
-> 🔗 [Git](https://github.com/OngTK)
-
-> 🔗 [Velog](https://velog.io/@dhdxorud)
-
-> 🔗 [Baekjoon](https://www.acmicpc.net/user/moonong)
-
 ---
 
 ## 3. 💡 LC-Eye 프로젝트
@@ -119,9 +112,10 @@ Spring Boot, React, Flutter, MyBatis, JPA 등 다양한 기술을 경험하였�
 ### 📫 Contact
 - GitHub: [github.com/OngTK](https://github.com/OngTK)  
 - Velog: [velog.io/@dhdxorud](https://velog.io/@dhdxorud)  
-- Email: dhdxorud@daum.net  
+- Email: dhdxorud@daum.net
+
+- > 🔗 [Baekjoon](https://www.acmicpc.net/user/moonong)
 
 ---
 
 > _“문제의 원인을 정확히 파악하고, 실질적인 해결책을 설계하는 개발자.”_  
-> 저는 그렇게 성장하고 있습니다.
