@@ -1,5 +1,6 @@
 # 👋 안녕하세요, OngTK입니다.
 
+---
 ## 🛠️ Tech Stack & Skills
 
 ### Languages 💻
