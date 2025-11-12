@@ -23,9 +23,10 @@
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 My Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OngTK&layout=compact&theme=buefy&hide_border=true)](https://github.com/OngTK)
+[![Solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonong)](https://www.acmicpc.net/user/moonong)
 
 --
 ## 💡 Featured Projects
@@ -115,16 +116,3 @@
 - Email: dhdxorud@daum.net
 
 - > 🔗 [Baekjoon](https://www.acmicpc.net/user/moonong)
-
----
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([당신의 LinkedIn URL])
-[![Tistory Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)]([당신의 블로그 URL])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[당신의 이메일 주소])
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/OngTK/count.svg" alt="방문자 수">
-</div>
