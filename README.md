@@ -1,12 +1,28 @@
 # 👋 안녕하세요, OngTK입니다.
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
 ## 📈 My GitHub Stats
 
-[![OngTK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OngTK&show_icons=true&theme=buefy&hide_border=true&count_private=true&locale=ko)](https://github.com/OngTK)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OngTK&layout=compact&theme=buefy&hide_border=true)](https://github.com/OngTK)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OngTK&theme=nord)](https://github.com/OngTK)
 
 --
 
