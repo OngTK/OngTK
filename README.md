@@ -80,7 +80,7 @@
 * 중복 SQL 최소화 및 **도메인 확장성 확보**.
 * Firebase 푸시 알림 서비스로 사용자 경험 강화.
 
-> 🔗 [GitHub 바로가기](https://github.com/OngTK/RootLab) &nbsp;|&nbsp; 🔗 [발표자료 보기]([https://buly.kr/GP3ibTn](https://drive.google.com/file/d/10u1CHipv4MhOyuj7g7ZvExLf7yHXcwXg/view?usp=sharing))
+> 🔗 [GitHub 바로가기](https://github.com/OngTK/RootLab) &nbsp;|&nbsp; 🔗 [발표자료 보기](https://drive.google.com/file/d/10u1CHipv4MhOyuj7g7ZvExLf7yHXcwXg/view?usp=sharing)
 
 ---
 
@@ -107,7 +107,7 @@
 * **코드 중복 40% 이상 감소**, 유지보수성 개선.
 * 엑셀 NullPointerException 트러블슈팅 및 안정적 출력 로직 구축.
 
-> 🔗 [GitHub 바로가기](https://github.com/yeonwooshin1/stand_by_five_minutes_ago) &nbsp;|&nbsp; 🔗 [발표자료 보기]([https://buly.kr/EI4KMqM](https://drive.google.com/file/d/1OL9n7KR7TRdPNj1TwK52Vg5PP0Epmsb5/view?usp=sharing))
+> 🔗 [GitHub 바로가기](https://github.com/yeonwooshin1/stand_by_five_minutes_ago) &nbsp;|&nbsp; 🔗 [발표자료 보기](https://drive.google.com/file/d/1OL9n7KR7TRdPNj1TwK52Vg5PP0Epmsb5/view?usp=sharing)
 
 ---
 
