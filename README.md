@@ -1,21 +1,12 @@
-# 👋 안녕하세요, 옹태경(Ong TaeKyung)입니다.
+# 👋 안녕하세요, OngTK입니다.
 
-# 1. 인삿말
-고객과 개발을 잇는 다리 역할을 수행해온 경험을 바탕으로,  
-이제는 스스로 실질적인 해결책을 만들어내는 **백엔드 중심 풀스택 개발자**로 성장하고 있습니다.
+## 📈 My GitHub Stats
 
----
+[![OngTK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OngTK&show_icons=true&theme=buefy&hide_border=true&count_private=true&locale=ko)](https://github.com/OngTK)
 
-# 2. 자기소개
-  저는 이전 환경 LCA·R&D 분야에서 근무하며, 환경 분양 컨설팅 뿐만 아니라
-**프로젝트 기획, 데이터 정리, 시스템 개선**까지 전 과정을 수행한 경험이 있습니다.  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OngTK&layout=compact&theme=buefy&hide_border=true)](https://github.com/OngTK)
 
-  Java 기반 백엔드 개발을 중심으로 한 풀스택 과정을 이수하며  
-Spring Boot, React, Flutter, MyBatis, JPA 등 다양한 기술을 경험하였습니다..  
-
-  업무에서 가장 중요하게 생각하는 것은 **논리적 구조와 협업 효율성**입니다.  
-꼼꼼한 업무 습관과 커뮤니케이션 역량을 바탕으로,  
-문제의 원인을 분석하고 실행 가능한 해결책을 제시하는 개발자가 되고자 합니다.
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OngTK&theme=nord)](https://github.com/OngTK)
 
 --
 
