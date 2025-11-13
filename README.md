@@ -113,5 +113,3 @@
 - GitHub: [github.com/OngTK](https://github.com/OngTK)  
 - Velog: [velog.io/@dhdxorud](https://velog.io/@dhdxorud)  
 - Email: dhdxorud@daum.net
-
-- > 🔗 [Baekjoon](https://www.acmicpc.net/user/moonong)
