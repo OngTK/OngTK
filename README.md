@@ -26,7 +26,36 @@
 
 ## 📈 My Stats
 
-[![Top Languages](https://github-readme-stats.ver중
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OngTK&layout=compact&theme=buefy&hide_border=true)](https://github.com/OngTK)
+[![Solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonong)](https://www.acmicpc.net/user/moonong)
+
+---
+## 💡 Featured Projects
+
+### 1. 🌿 LC-Eye 프로젝트
+
+> **👀 경량형 LCI(Life Cycle Inventory) 계산 시스템**
+
+| 항목 | 상세 내용 |
+| :--- | :--- |
+| **기간** | 2025.11.05 ~ 2025.11.27 (3주) |
+| **기술 스택** | **Spring Boot** · **React** · **Flutter** |
+| **주요 역할** | 팀장, LCI 계산 알고리즘 구현, 일정 및 노션 관리 |
+
+**프로젝트 개요**
+제품·공정 단위의 투입물·산출물 데이터를 기반으로 환경부하를 정량화하는 툴입니다.
+
+**핵심 구현 사항**
+* 단위공정별 투입·산출 총량 계산 및 단위 변환 반영.
+* **키워드 유사도(Text Similarity)**를 활용한 자동 매핑 알고리즘 구축.
+* 기업별 데이터 독립성 및 회원 계층별 접근 권한 설정.
+
+**현재 진행중**
+
+> 🔗 [프로젝트 노션 바로가기](https://lceye.notion.site/LC-Eye-2a2094d4983480369aa4fe1a6163688f)
+> 🔗 단일 서버용 GitHub [GitHub 바로가기](https://github.com/JeonghoonAHN0510/LC-Eye)
+> 🔗 다중 서버용 GitHub [Back 1]() &nbsp;|&nbsp; [Back 2]() &nbsp;|&nbsp; [Front]()
+> 🔗 [발표자료 보기](/) 작업중...
 
 ---
 
