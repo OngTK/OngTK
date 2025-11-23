@@ -54,7 +54,7 @@
 
 > 🔗 [프로젝트 노션 바로가기](https://lceye.notion.site/LC-Eye-2a2094d4983480369aa4fe1a6163688f) <br>
 > 🔗 단일 서버용 GitHub [GitHub 바로가기](https://github.com/JeonghoonAHN0510/LC-Eye) <br>
-> 🔗 다중 서버용 GitHub [Back 1]() &nbsp;|&nbsp; [Back 2]() &nbsp;|&nbsp; [Front]() <br>
+> 🔗 다중 서버용 GitHub [Back 1]() &nbsp;|&nbsp; [Back 2]() &nbsp;|&nbsp; [Front]() 작업중...<br>
 > 🔗 [발표자료 보기](/) 작업중...
 
 ---
