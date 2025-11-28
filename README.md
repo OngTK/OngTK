@@ -50,12 +50,16 @@
 * **키워드 유사도(Text Similarity)**를 활용한 자동 매핑 알고리즘 구축.
 * 기업별 데이터 독립성 및 회원 계층별 접근 권한 설정.
 
-**현재 진행중**
+**주요 업무 및 성과**
+1.  LCI 계산 알고리즘 구현
+&nbsp;&nbsp;&nbsp;&nbsp; 1) 사용자 입력 데이터를 기반으로 단위공정별 투입물·산출물 총량을 계산
+&nbsp;&nbsp;&nbsp;&nbsp; 2) AWS S3 Cloud Service · Redis Caching 활용한 데이터 처리 최적화
 
 > 🔗 [프로젝트 노션 바로가기](https://lceye.notion.site/LC-Eye-2a2094d4983480369aa4fe1a6163688f) <br>
 > 🔗 단일 서버용 GitHub [GitHub 바로가기](https://github.com/JeonghoonAHN0510/LC-Eye) <br>
 > 🔗 다중 서버용 GitHub [Back_Member](https://github.com/JeonghoonAHN0510/LC-Eye_Member) &nbsp;|&nbsp; [Back_Project](https://github.com/JeonghoonAHN0510/LC-Eye_Project) &nbsp;|&nbsp; [React](https://github.com/JeonghoonAHN0510/LC-Eye_React) &nbsp;|&nbsp; [Flutter](https://github.com/msh-94/lc_eye_project) <br>
-> 🔗 [발표자료 보기](/) 작업중...
+> 📃 발표자료 [PDF 바로가기](https://drive.google.com/file/d/139mwUQxmyiBQZLN5WCTaBkCL4sBBORIk/view?usp=sharing) <br>
+> 💻 시연영상 [영상 바로보기](https://drive.google.com/file/d/1objnc56YuQeHpYGFZkyLe-8hU9B_7Fpt/view)
 
 ---
 
