@@ -51,9 +51,9 @@
 * 기업별 데이터 독립성 및 회원 계층별 접근 권한 설정.
 
 **주요 업무 및 성과**
-1.  LCI 계산 알고리즘 구현
-&nbsp;&nbsp;&nbsp;&nbsp; 1) 사용자 입력 데이터를 기반으로 단위공정별 투입물·산출물 총량을 계산
-&nbsp;&nbsp;&nbsp;&nbsp; 2) AWS S3 Cloud Service · Redis Caching 활용한 데이터 처리 최적화
+1.  LCI 계산 알고리즘 구현 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 1) 사용자 입력 데이터를 기반으로 단위공정별 투입물·산출물 총량을 계산 <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 2) AWS S3 Cloud Service · Redis Caching 활용한 데이터 처리 최적화 <br>
 
 > 🔗 [프로젝트 노션 바로가기](https://lceye.notion.site/LC-Eye-2a2094d4983480369aa4fe1a6163688f) <br>
 > 🔗 단일 서버용 GitHub [GitHub 바로가기](https://github.com/JeonghoonAHN0510/LC-Eye) <br>
