@@ -27,7 +27,10 @@
 ## 📈 My Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OngTK&layout=compact&theme=buefy&hide_border=true)](https://github.com/OngTK)
+
 [![Solved.ac Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonong)](https://www.acmicpc.net/user/moonong)
+
+[![SolveSQL](https://img.shields.io/badge/SolveSQL-Profile-2E8B57?style=flat-square)]([https://solvesql.com](https://solvesql.com/u/d54b0cd1-6f35-4a8e-bd3b-ac2f616eb578/))
 
 ---
 ## 💡 Featured Projects
