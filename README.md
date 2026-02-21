@@ -36,6 +36,7 @@
 ---
 
 ## 📫 Contact
-- GitHub: [github.com/OngTK](https://github.com/OngTK)  
+- GitHub: [github.com/OngTK](https://github.com/OngTK)
+- Notion: [Notion](https://ongtktheory.notion.site/Programming-2c717d76968b80e99573e2130163f2cc)
 - Velog: [velog.io/@dhdxorud](https://velog.io/@dhdxorud)  
 - Email: dhdxorud@daum.net
